@@ -1,0 +1,7 @@
+{"MagneticFieldStrength" : "7",
+	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "Magnetom",
+	"PulseSequenceType": "GRE",
+	"RepititionTime": "34",
+	"EchoTime": "0.00565",
+	"FlipAngle": "30"}
