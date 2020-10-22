@@ -1,0 +1,3 @@
+
+* annex.backend=SHA256E
+**/.git* annex.largefiles=nothing
