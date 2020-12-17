@@ -88,6 +88,8 @@ keywords:
 - Broca's area
 - Motor cortex
 name: U01MH117023
+organism:
+- species: Homo sapiens
 sponsors:
 - awardNumber: 1U01MH117023-01
   name: General Hospital Corporation Center of the National Institutes of Health
