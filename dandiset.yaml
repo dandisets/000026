@@ -42,6 +42,15 @@ contributors:
   - Methodology
 - affiliations:
   - European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  name: Filippo Maria Castelli
+  roles:
+  - Author
+  - Data Collector
+  - DataCurator
+  - ProjectMember
+  - Methodology
+- affiliations:
+  - European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   name: Luca Pesce
   orcid: 0000-0002-5863-399X
   roles:
