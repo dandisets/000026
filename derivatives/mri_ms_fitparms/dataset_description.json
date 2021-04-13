@@ -1,0 +1,20 @@
+
+{
+	"Name": "mri_ms_fitparms outputs",
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "mri_ms_fitparms"
+			 },
+			 {
+				"Name": "Manual",
+
+				"Description": "This program takes an arbitrary # of FLASH images as input, and estimates the T1 and PD values of the data for voxel, as well as a linear transform aligning each of the images. The T1 and PD maps are written into <output directory> together with synthetic volumes names vol?.mgh, one for each of the input volumes. All the output volumes are generated in the common (motion-corrected) space. Further information on this FreeSurfer command can be found here: https://surfer.nmr.mgh.harvard.edu/fswiki/mri_ms_fitparms",
+
+				"CodeURL" : "https://github.com/freesurfer/freesurfer/blob/dev/mri_ms_fitparms/mri_ms_fitparms.cpp",
+			 }
+
+			],
+	"Description": "This is a dataset from a Variable Flip Angle (VFA) scan which has been processed through the pipeline described above to compute synthesized volumes of varying FA contrasts."
+}

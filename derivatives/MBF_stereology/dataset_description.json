@@ -1,0 +1,17 @@
+{
+	"Name": "MBF stereology outputs", 
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "Cell counting and classification on LSFM data using Microbrightfield Stereo Investigator Software"
+			 },
+			 {
+				"Name": "Manual",
+
+				"Description": "Cell counting and classification on LSFM data using Microbrightfield Stereo Investigator Software",
+			 }
+
+			],
+	"Description": "Cell counting and classification on LSFM data using Microbrightfield Stereo Investigator Software"
+}

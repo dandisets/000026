@@ -25,6 +25,7 @@ contributors:
   - ProjectMember
 - affiliations:
   - European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  email: costantini@lens.unifi.it
   name: Irene Costantini
   orcid: 0000-0002-8464-7324
   roles:
@@ -43,6 +44,7 @@ contributors:
 - affiliations:
   - European Laboratory for Non-Linear Spectroscopy, LENS, Italy
   name: Filippo Maria Castelli
+  orcid: 0000-0001-8170-8905
   roles:
   - Author
   - Data Collector
@@ -74,8 +76,391 @@ contributors:
   roles:
   - Author
   - ProjectLeader
-- orcid: ''
-  roles: []
+- affiliations:
+  - Bioretics Srl, Cesena (FC), Italy
+  email: roffilli@gmail.com
+  name: Matteo Roffilli
+  orcid: 0000-0002-7554-4470
+  roles:
+  - Author
+  - Data Collector
+  - Methodology
+- affiliations:
+  - European Laboratory for Non-linear Spectroscopy, University of Florence,Italy
+  email: silvestri@lens.unifi.it
+  name: Ludovico Silvestri
+  orcid: 0000-0001-9215-9104
+  roles:
+  - Author
+  - Data Collector
+  - Methodology
+- affiliations:
+  - Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai,
+    New York
+  email: patrick.hof@mssm.edu
+  name: Patrick R. Hof
+  orcid: 0000-0002-3208-1154
+  roles:
+  - Author
+  - Investigation
+  - Supervision
+  - ProjectLeader
+  - Methodology
+- affiliations:
+  - Boston University Neurophotonics Center, Boston, MA
+  email: dboas@bu.edu
+  name: David A. Boas
+  orcid: 0000-0002-6709-7711
+  roles:
+  - Author
+  - Investigation
+  - ProjectLeader
+  - Methodology
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  - CSAIL/HST, MIT, Cambridge, MA
+  email: fischl@nmr.mgh.harvard.edu
+  name: Bruce Fischl
+  orcid: 0000-0002-2413-1115
+  roles:
+  - Author
+  - Funding acquisition
+  - Investigation
+  - ProjectLeader
+  - Supervision
+  - Methodology
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: lmorgan6@mgh.harvard.edu
+  name: Leah Morgan
+  orcid: 0000-0001-6859-734X
+  roles:
+  - Author
+  - Data Collector
+  - DataCurator
+  - DataManager
+  - Methodology
+  - ProjectManager
+  - Project administration
+  - ProjectMember
+  - Researcher
+  - Supervision
+  - ContactPerson
+- affiliations:
+  - Boston University Neurophotonics Center, Boston, MA
+  email: jryang@bu.edu
+  name: Jiarui Yang
+  orcid: 0000-0003-2759-776X
+  roles:
+  - Author
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - Boston University Neurophotonics Center, Boston, MA
+  email: shuaibin@bu.edu
+  name: Shuaibin Chang
+- affiliations:
+  - Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai,
+    New York
+  email: jessie.laffey@mssm.edu
+  name: Jessie Laffey
+  orcid: 0000-0002-7473-5558
+  roles:
+  - Author
+  - Data Collector
+  - DataCurator
+  - ProjectMember
+  - Methodology
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: cmagnain@mgh.harvard.edu
+  name: Caroline Magnain
+  orcid: 0000-0003-4244-7380
+  roles:
+  - Author
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  email: dvaradarajan@mgh.harvard.edu
+  name: Divya Varadarajan
+  orcid: 0000-0002-3517-9739
+  roles:
+  - Author
+  - Data Collector
+  - Investigation
+  - Methodology
+  - Producer
+  - ProjectMember
+  - Software
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: huiwang@nmr.mgh.harvard.edu
+  name: Hui Wang
+  orcid: 0000-0003-0181-5845
+  roles:
+  - Author
+  - Data Collector
+  - Investigation
+  - Methodology
+  - Researcher
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  email: srfrost@mgh.harvard.edu
+  name: Robert Frost
+  orcid: 0000-0002-2849-9240
+  roles:
+  - Author
+  - Investigation
+  - Data Collector
+  - Producer
+  - Researcher
+  - Software
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: andre@nmr.mgh.harvard.edu
+  name: Andre van der Kouwe
+  orcid: 0000-0002-2754-6594
+  roles:
+  - Author
+  - Data Collector
+  - Formal Analysis
+  - Investigation
+  - Methodology
+  - Producer
+  - Software
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: astevens@nmr.mgh.harvard.edu
+  name: Allison Stevens Player
+  orcid: 0000-0002-4978-0824
+  roles:
+  - Author
+  - Data Collector
+  - Investigation
+  - Methodology
+  - Resources
+  - Researcher
+  - Supervision
+- affiliations:
+  - Centre for Medical Image Computing, Department of Medical Phisics and Biomedical
+    Engineering, University College London, UK
+  email: alessia.atzeni.14@ucl.ac.uk
+  name: Alessia Atzeni
+  orcid: 0000-0001-8320-230X
+  roles:
+  - Author
+  - Investigation
+  - Methodology
+  - Software
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - 'Centre for Medical Image Computing, University College London, United Kingdom  '
+  - CSAIL, MIT, Cambridge, MA
+  email: jiglesiasgonzalez@mgh.harvard.edu
+  name: Juan Eugenio Iglesias Gonzalez
+  roles:
+  - Author
+  - Investigation
+  - Researcher
+  - Software
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: ybalbastre@mgh.harvard.edu
+  name: Yael Balbastre
+  orcid: 0000-0001-8758-9978
+  roles:
+  - Author
+  - Data Collector
+  - Investigation
+  - Methodology
+  - Producer
+  - ProjectMember
+  - Researcher
+  - Software
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: mvera2@mgh.harvard.edu
+  name: Matthew Vera
+  orcid: 0000-0003-2854-8775
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: dccordero@mgh.harvard.edu
+  name: Devani Cordero
+  orcid: 0000-0003-2846-4571
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: knestor1@mgh.harvard.edu
+  name: Kimberly Nestor
+  orcid: 0000-0002-3178-1300
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: wammon@mgh.harvard.edu
+  name: William Ammon
+  orcid: 0000-0002-8952-979X
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jnolan5@mgh.harvard.edu
+  name: Jackson Nolan
+  orcid: 0000-0001-7215-9107
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Software
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jsmora@mgh.harvard.edu
+  name: Jocelyn Mora
+  orcid: 0000-0002-4241-408X
+  roles:
+  - Data Collector
+  - ProjectMember
+  - Researcher
+  - Methodology
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: egarciapallares@mgh.harvard.edu
+  name: Erendira Garcia Pallares
+  orcid: 0000-0003-1524-6698
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: jean@nmr.mgh.harvard.edu
+  name: Jean Augustinack
+  orcid: 0000-0001-7198-2548
+  roles:
+  - Resources
+  - Supervision
+  - Investigation
+  - Methodology
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: bram.diamond@northwestern.edu
+  name: Bram Diamond
+  orcid: 0000-0002-9493-874X
+  roles:
+  - Data Collector
+  - Methodology
+  - Researcher
+  - ProjectMember
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: m.fogarty@wustl.edu
+  name: Morgan Fogarty
+  orcid: 0000-0003-1334-1923
+  roles:
+  - Data Collector
+  - ProjectMember
+  - Researcher
+  - Methodology
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: eboyd@ucsd.edu
+  name: Emma Boyd
+  orcid: 0000-0002-6922-8092
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai,
+    New York
+  email: merina.varghese@mssm.edu
+  name: Merina Varghese
+  orcid: 0000-0002-1517-3903
+  roles:
+  - Data Collector
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: adalca@mit.edu
+  name: Adrian V. Dalca
+  orcid: 0000-0002-8422-0136
+  roles:
+  - Author
+  - Investigation
+  - Researcher
+  - Software
+  - Supervision
+- affiliations:
+  - A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  email: bedlow@mgh.harvard.edu
+  name: Brian Edlow
+  roles:
+  - Author
+  - Investigation
+  - Resources
+  - Supervision
+- affiliations:
+  - Massachusetts General Hospital, Dept. of Pathology, Boston
+  email: mfrosch@mgh.harvard.edu
+  name: Matthew Frosche
+  roles:
+  - Author
+  - Investigation
+  - Resources
+  - Supervision
+- affiliations:
+  - Boston University Neurophotonics Center, Boston, MA
+  email: chena11@bu.edu
+  name: I-Chun Anderson Chen
+  roles:
+  - Data Collector
+  - Investigation
+  - Methodology
+  - ProjectMember
+  - Researcher
+- affiliations:
+  - Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai,
+    New York
+  email: bridget.wicinski@mssm.edu
+  name: Bridget Wicinski
+  orcid: 0000-0002-2972-7081
+  roles:
+  - Data Collector
+  - ProjectMember
+  - Researcher
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
   function and provide anatomical information
@@ -92,13 +477,16 @@ keywords:
 - multi-modal imaging
 - MRI
 - OCT
-- LSFM
+- SPIM
 - human cortex
 - Broca's area
 - Motor cortex
+- Stereology
 name: U01MH117023
 organism:
 - species: Homo sapiens
 sponsors:
 - awardNumber: 1U01MH117023-01
   name: General Hospital Corporation Center of the National Institutes of Health
+- {}
+- {}

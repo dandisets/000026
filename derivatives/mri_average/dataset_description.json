@@ -1,0 +1,17 @@
+
+{
+	"Name": "mri_average outputs", 
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "mri_average",
+
+				"Description": "Multiple runs of the same flip angle contrast, averaged together using FreeSurfer's mri_average command. Further description of this command can be found here: https://surfer.nmr.mgh.harvard.edu/fswiki/ExvivoRecons?highlight=%28average%29" ,
+
+				"CodeURL": "https://github.com/freesurfer/freesurfer/blob/dev/mri_average/mri_average.cpp"
+			 }
+
+			],
+	"Description": "This is a dataset from a Variable Flip Angle (VFA) scan which collected multiple runs of the same flip angle contrast. These runs were averaged together to create a single volume."
+}

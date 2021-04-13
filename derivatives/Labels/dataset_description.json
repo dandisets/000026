@@ -1,0 +1,20 @@
+{
+	"Name": "Infragranular/supragranular boundary labels for BA 44/45", 
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "SmartInterpol"
+			 },
+			 {
+				"Name": "Manual",
+
+				"Description": "Manual labels delineating the white matter/grey matter boundary as well as the infragranular and supragranular boundary within the cortex in Broca's Area 44/45 for MRI volumes. Manual labels are drawn on every 10th slice of the MRI volume and input to the SmartInterpol program which propogates labels through the rest of the BA 44/45 volume. Labels are then manually touched up for accuracy. More information on SmartInterpol can be found here:",
+
+				"CodeURL": "https://github.com/aleatzeni/SmartInterpol",
+				"HowToAcknowledge": "Atzeni A., Jansen M., Ourselin S., Iglesias J.E. (2018) A Probabilistic Model Combining Deep Learning and Multi-atlas Segmentation for Semi-automated Labelling of Histology. In: Frangi A., Schnabel J., Davatzikos C., Alberola-López C., Fichtinger G. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2018. MICCAI 2018. Lecture Notes in Computer Science, vol 11071. Springer, Cham. https://doi.org/10.1007/978-3-030-00934-2_25"
+			 }
+
+			],
+	"Description": "Partial manual labels delineating the white matter/grey matter boundary as well as the infragranular and supragranular boundary within the cortex in Broca's Area 44/45 for MRI volumes, augmented by SmartInterpol program to label BA44/45 in full."
+}
