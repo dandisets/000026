@@ -7,7 +7,9 @@ about:
 - name: Motor Cortex
   schemaKey: GenericType
 access:
-- status: dandi:Open
+- contactPoint:
+    schemaKey: ContactPoint
+  status: dandi:Open
 contributor:
 - affiliation:
   - includeInCitation: false
@@ -227,6 +229,7 @@ contributor:
   email: shuaibin@bu.edu
   includeInCitation: true
   name: Chang, Shuaibin
+  roleName: []
   schemaKey: Person
 - affiliation:
   - includeInCitation: false
@@ -640,16 +643,19 @@ contributor:
   - dandi:Researcher
   schemaKey: Person
 - awardNumber: 1U01MH117023-01
+  contactPoint: []
   includeInCitation: false
   name: Health, General Hospital Corporation Center of the National Institutes of
   roleName:
   - dandi:Sponsor
   schemaKey: Organization
-- includeInCitation: false
+- contactPoint: []
+  includeInCitation: false
   roleName:
   - dandi:Sponsor
   schemaKey: Organization
-- includeInCitation: false
+- contactPoint: []
+  includeInCitation: false
   roleName:
   - dandi:Sponsor
   schemaKey: Organization
@@ -664,6 +670,7 @@ description: 'We still lack a detailed map of the anatomical disposition of neur
   multi-modal imaging via MRI, OCT and LSFM. We perform volumetric imaging of the
   Broca’s Area and the Motor Cortex from the left hemisphere of a single human brain,
   towards generating a cell census for the human cortex.'
+ethicsApproval: []
 id: DANDI:000026/draft
 identifier: DANDI:000026
 keywords:
@@ -675,6 +682,15 @@ keywords:
 - Broca's area
 - Motor cortex
 - Stereology
+license: []
+manifestLocation: []
 name: U01MH117023
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org/
 schemaVersion: 0.3.0
+studyTarget: []
+wasGeneratedBy:
+- name: Brain Initiative Cell Census Network (BICCN)
+  schemaKey: Project
+  wasAssociatedWith: []
