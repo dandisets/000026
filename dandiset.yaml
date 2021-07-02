@@ -10,6 +10,7 @@ about:
 access:
 - contactPoint:
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
@@ -664,16 +665,6 @@ contributor:
   roleName:
   - dcite:Sponsor
   schemaKey: Organization
-- contactPoint: []
-  includeInCitation: false
-  roleName:
-  - dcite:Sponsor
-  schemaKey: Organization
-- contactPoint: []
-  includeInCitation: false
-  roleName:
-  - dcite:Sponsor
-  schemaKey: Organization
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
   function and provide anatomical information
@@ -697,7 +688,8 @@ keywords:
 - Broca's area
 - Motor cortex
 - Stereology
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: U01MH117023
 protocol: []
@@ -711,4 +703,5 @@ version: draft
 wasGeneratedBy:
 - name: Brain Initiative Cell Census Network (BICCN)
   schemaKey: Project
+  used: []
   wasAssociatedWith: []
