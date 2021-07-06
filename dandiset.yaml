@@ -13,8 +13,17 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 899069688505
+  numberOfFiles: 1224
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Mazzamuto, Giacomo; Costantini, Irene; Gavryusev, Vladislav; Castelli, Filippo
   Maria; Pesce, Luca; Scardigli, Marina; Pavone, Francesco Saverio; Roffilli, Matteo;
   Silvestri, Ludovico; Hof, Patrick R.; Boas, David A.; Fischl, Bruce; Morgan, Leah;
