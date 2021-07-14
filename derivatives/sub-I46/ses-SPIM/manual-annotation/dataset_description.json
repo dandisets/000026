@@ -1,0 +1,17 @@
+{
+	"Name": "Neuron Soma and Blood Vessel Segmentation in SPIM-imaged Broca Area", 
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+			 {	
+				"Name": "SPIMBrocaAreaSegmentation"
+			 },
+			 {
+				"Name": "Manual",
+
+				"Description": "Partial manual segmentation of excitatory / inhibitory neuronal somas and blood vessels within Broca Area in SPIM imaging.",
+			 }
+
+			],
+	"Description": "Partial manual segmentation of excitatory / inhibitory neuronal somas and blood vessels within Broca Area in SPIM imaging.",
+}

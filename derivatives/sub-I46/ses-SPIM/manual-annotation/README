@@ -1,0 +1,33 @@
+Partial manual segmentation of excitatory / inhibitory neuronal somas and blood vessels within Broca Area in SPIM imaging.
+
+Each segmented image is provided as three separate files:
+
+sub-I46_ses-SPIM_sample-BrocaAreaS07_{left/right}_{##}.ome.tiff
+sub-I46_ses-SPIM_sample-BrocaAreaS07_{left/right}_{##}_segmentation.ome.tiff
+sub-I46_ses-SPIM_sample-BrocaAreaS07_{left/right}_{##}_segmentation_roi.csv
+
+which are, respectively, the two-color acquisition plane, the manual segmentation and a CSV containing ROI coordinates delineating the annotated part of the image plane.
+
+The image planes are acquired using the two (left and right) objectives of a diSPIM apparatus with a [0.88um x 0.88um] planar resolution.
+The two image channels are characterized as
+
+# channel 0
+Excitation Frequency: 488nm
+Staining: NeuN
+Fluorophore : Alexa Fluor 488
+
+# channel 1
+Excitation Frequency: 638nm
+Staining: GAD67
+Fluorophore: Alexa Fluor 647
+
+The labels are presented in an "index-mask" format, where each gray value corresponds to a segmentation class:
+0 - excitatory neuron soma
+1 - inhibitory neuron soma
+2 - blood vessel
+255 - background
+
+For each image plane the annotated portion is defined in the CSV file.
+Each line identifies a square ROI by coordinates in the form
+
+x_min, y_min, x_max, y_max
