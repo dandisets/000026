@@ -1,4 +1,6 @@
-1620084696.421603s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/220b9aad-da4f-4f6c-bd0e-13102223870d/download/
-1619835607.569667s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/b49ca95c-4ede-4611-b38f-bcafc9580b88/download/
+1630341618.015632s 1 https://api.dandiarchive.org/api/assets/220b9aad-da4f-4f6c-bd0e-13102223870d/download/
+1630341618.11526s 1 https://api.dandiarchive.org/api/assets/b49ca95c-4ede-4611-b38f-bcafc9580b88/download/
+1630341617.967159s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/220b9aad-da4f-4f6c-bd0e-13102223870d/download/
+1630341618.064862s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/b49ca95c-4ede-4611-b38f-bcafc9580b88/download/
 1619835606.986149s 1 https://dandiarchive.s3.amazonaws.com/blobs/ca0/19b/ca019b88-fa5d-4c60-af55-b415791ffd6f?versionId=fj7m0DwbIrb67BU_91hXh4HozGfluDR7
 1620084696.474254s 0 https://dandiarchive.s3.amazonaws.com/girder-assetstore/73/f2/73f2abed1c3e47788ea8b411c50657d1?versionId=UIleZtDF90xnyYZOqcexZstyBThKLnwm

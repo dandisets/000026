@@ -1,4 +1,6 @@
-1620085602.172069s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/15df42c9-7726-4250-9d9d-8acbc04b7657/download/
-1619837380.113528s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/e6cc97c5-133c-4936-915e-ac7e296e873f/download/
+1630341536.901833s 1 https://api.dandiarchive.org/api/assets/15df42c9-7726-4250-9d9d-8acbc04b7657/download/
+1630341537.026113s 1 https://api.dandiarchive.org/api/assets/e6cc97c5-133c-4936-915e-ac7e296e873f/download/
+1630341536.846334s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/15df42c9-7726-4250-9d9d-8acbc04b7657/download/
+1630341536.956144s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/e6cc97c5-133c-4936-915e-ac7e296e873f/download/
 1619837379.933752s 1 https://dandiarchive.s3.amazonaws.com/blobs/76b/9cb/76b9cb68-fc0a-4281-b63c-a37c85b3bbfe?versionId=36FrRPR9rGFumxRo06M3v2jIGQfVGCa6
 1620085602.215049s 0 https://dandiarchive.s3.amazonaws.com/girder-assetstore/64/9a/649a0ff7cf83408aae7b04ac6586b5e0?versionId=MqQTpTQ9TvhokSXSuuUO839WrwOAPalM

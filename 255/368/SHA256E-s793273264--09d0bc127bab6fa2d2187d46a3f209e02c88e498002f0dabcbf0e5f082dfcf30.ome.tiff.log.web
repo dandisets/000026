@@ -1,4 +1,6 @@
-1619833261.494238s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/12b35985-c9ad-477d-bc7a-f3932605e4cc/download/
-1620085251.772025s 1 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/6c484a06-4d5f-4fea-9809-b7297baaac2f/download/
+1630341528.61052s 1 https://api.dandiarchive.org/api/assets/12b35985-c9ad-477d-bc7a-f3932605e4cc/download/
+1630341528.689451s 1 https://api.dandiarchive.org/api/assets/6c484a06-4d5f-4fea-9809-b7297baaac2f/download/
+1630341528.56529s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/12b35985-c9ad-477d-bc7a-f3932605e4cc/download/
+1630341528.648821s 0 https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/6c484a06-4d5f-4fea-9809-b7297baaac2f/download/
 1619833261.150866s 1 https://dandiarchive.s3.amazonaws.com/blobs/6b2/a5a/6b2a5a8e-fb02-436a-9d05-7cc1b09effbd?versionId=Jc8mKhPTCU9TFl_zt0bJNE5wY84W3vlX
 1620085251.827322s 0 https://dandiarchive.s3.amazonaws.com/girder-assetstore/75/3f/753f496213f14ecc8a2b1ff5c510dcd8?versionId=iOT.CWf40GuEw.eScUXqx13pcZyaZqw9
