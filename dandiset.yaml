@@ -19,7 +19,7 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 899363470400
+  numberOfBytes: 899510200480
   numberOfFiles: 1331
   schemaKey: AssetsSummary
   species: []
@@ -674,6 +674,7 @@ contributor:
   roleName:
   - dcite:Sponsor
   schemaKey: Organization
+dateCreated: '2020-06-24T18:34:50.022000+00:00'
 description: 'We still lack a detailed map of the anatomical disposition of neurons
   in the human brain. Obtaining a complete map would help deeply understand the brain
   function and provide anatomical information
