@@ -19,8 +19,10 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 11306311430769
-  numberOfFiles: 9022
+  numberOfBytes: 6208493520482
+  numberOfFiles: 18530
+  numberOfSamples: 56
+  numberOfSubjects: 12
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
@@ -33,8 +35,8 @@ citation: Mazzamuto, Giacomo; Costantini, Irene; Gavryusev, Vladislav; Castelli,
   Devani; Nestor, Kimberly; Ammon, William; Nolan, Jackson; Mora, Jocelyn; Pallares,
   Erendira Garcia; Augustinack, Jean; Diamond, Bram; Fogarty, Morgan; Boyd, Emma;
   Varghese, Merina; Dalca, Adrian V.; Edlow, Brian; Frosche, Matthew; Chen, I-Chun
-  Anderson; Wicinski, Bridget (2021) U01MH117023 (Version draft) [Data set]. DANDI
-  archive. https://dandiarchive.org/dandiset/000026/draft
+  Anderson; Wicinski, Bridget (2021) Human brain cell census for BA 44/45 (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000026/draft
 contributor:
 - affiliation:
   - includeInCitation: false
@@ -55,7 +57,6 @@ contributor:
   - dcite:Maintainer
   - dcite:Researcher
   - dcite:Software
-  - dcite:ContactPerson
   - dcite:ProjectMember
   schemaKey: Person
 - affiliation:
@@ -676,14 +677,13 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-06-24T18:34:50.022000+00:00'
-description: We still lack a detailed map of the anatomical disposition of neurons
-  in the human brain. Obtaining a complete map would help deeply understand the brain
-  function and provide anatomical information useful to decipher the neuronal pattern
-  in healthy and diseased conditions. Here, we present several important advances
-  towards this goal, obtained by combining a new sample preparation protocol and multi-modal
-  imaging via MRI, OCT and LSFM. We perform volumetric imaging of the Broca’s Area
-  and the Motor Cortex from the left hemisphere of a single human brain, towards generating
-  a cell census for the human cortex.
+description: Magnetic resonance imaging (MRI) is used to establish a macroscopic reference
+  coordinate system of laminar and cytoarchitectural boundaries. Cell counting is
+  obtained with both traditional immunohistochemistry, to provide a stereological
+  gold standard, and with a custom-made inverted confocal light-sheet fluorescence
+  microscope (LSM) for 3D imaging at cellular resolution. Finally, polarization-sensitive
+  optical coherence tomography (PSOCT) enables registration of the distorted histological
+  cell typing obtained with LSM to the MRI-based atlas coordinate system.
 ethicsApproval: []
 id: DANDI:000026/draft
 identifier: DANDI:000026
@@ -700,13 +700,89 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000026/versions/draft/assets/
-name: U01MH117023
-protocol: []
-relatedResource: []
+name: Human brain cell census for BA 44/45
+protocol:
+- https://www.protocols.io/view/high-resolution-ex-vivo-structural-mri-imaging-amp-byt7pwrn
+- https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
+- https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
+relatedResource:
+- identifier: Paper
+  name: Dual-beam confocal light-sheet microscopy via flexible acousto-optic deflector
+  relation: dcite:IsPublishedIn
+  repository: J. of Biomedical Optics
+  schemaKey: Resource
+  url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-24/issue-10/106504/Dual-beam-confocal-light-sheet-microscopy-via-flexible-acousto-optic/10.1117/1.JBO.24.10.106504.full?tab=ArticleLinkCited
+- identifier: Paper
+  name: 'Autofluorescence enhancement for label-free imaging of myelinated fibers
+    in mammalian brains '
+  relation: dcite:IsPublishedIn
+  repository: Scientific Reports
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2020.07.28.225011v1
+- identifier: Paper
+  name: 'Large-scale, cell-resolution volumetric analysis allows layer-specific investigation
+    of human brain cytoarchitecture (MAGIC: A label-free fluorescence method for 3D
+    high-resolution reconstruction of myelinated fibers in large volumes)'
+  relation: dcite:IsPublishedIn
+  repository: Biomedical Optics Express
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2020.08.06.219444v1
+- identifier: Paper
+  name: Improving the characterization of ex vivo human brain optical properties using
+    high numerical aperture optical coherence tomography by spatially constraining
+    the confocal parameters
+  relation: dcite:IsPublishedIn
+  repository: Neurophotonics
+  schemaKey: Resource
+  url: https://pubmed.ncbi.nlm.nih.gov/33094126/
+- identifier: Paper
+  name: 'as-PSOCT: Volumetric microscopic imaging of human brain architecture and
+    connectivity'
+  relation: dcite:IsPublishedIn
+  repository: Neuroimage
+  schemaKey: Resource
+  url: https://pubmed.ncbi.nlm.nih.gov/29017866/
+- identifier: Proceedings
+  name: Measuring myelin content and cell density in human brain with Optical Coherence
+    Tomography
+  relation: dcite:IsPartOf
+  repository: Optical Techniques in Neurosurgery, Neurophotonics, and Optogenetics
+  schemaKey: Resource
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11629/116291J/Measuring-myelin-content-and-cell-density-in-the-human-brain/10.1117/12.2578489.short
+- identifier: Proceedings
+  name: Fast volumetric mapping of human brain slices
+  relation: dcite:IsPublishedIn
+  repository: bioRxiv
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2020.10.27.357186v1
+- identifier: Proceedings
+  name: A novel algorithm to optimize generalized gamma distributed multiplicative
+    noise with implications on speckle removal from OCT images
+  relation: dcite:IsPublishedIn
+  repository: bioRxiv
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2020.10.07.329227v1
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-studyTarget: []
+studyTarget:
+- 'Our consortium will develop and utilize an imaging infrastructure to create a human
+  brain cell census and instantiate it in a coordinate system that will enable an
+  immediate impact of all in vivo MRI studies of the human brain. Our imaging pipeline
+  begins with 150 μm isotropic ex vivo structural MRIs and 500 μm 90 direction diffusion
+  MRI. 4x4x2 cm tissue blocks will then be imaged with serial sectioning polarization
+  sensitive optical coherence tomography (PS-OCT) to obtain 20 μm isotropic resolution
+  images of cyto- and myelo-architectural features and fiber tractography. Registration
+  with the MRI is preserved because imaging is performed before sectioning. Serial
+  sections with 150 μm thickness are cut from the block face, cleared, and subsequently
+  imaged by selective plane imaging microscopy (SPIM) with 1 μm isotropic resolution,
+  and with multiplexed histological staining of multiple molecular markers. Segmentation
+  of common features amongst the SPIM, OCT, and MRI, permits registration of the cellular
+  information from SPIM back to the MRI coordinate system with OCT serving as an important
+  intermediary permitting registration of SPIM with MRI with micrometer resolution.
+  Our aims are designed to establish our imaging workflow and build a cell census
+  atlas for language regions in human frontal cortex, resulting in a clear path forward
+  for obtaining the cell census for the entire human brain. '
 url: https://dandiarchive.org/dandiset/000026/draft
 version: draft
 wasGeneratedBy:
