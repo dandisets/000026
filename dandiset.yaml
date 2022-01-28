@@ -786,7 +786,8 @@ studyTarget:
 url: https://dandiarchive.org/dandiset/000026/draft
 version: draft
 wasGeneratedBy:
-- name: Brain Initiative Cell Census Network (BICCN)
+- identifier: fischl_mri_proj
+  name: Brain Initiative Cell Census Network (BICCN)
   schemaKey: Project
   used: []
   wasAssociatedWith: []
