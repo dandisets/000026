@@ -28,15 +28,15 @@ assetsSummary:
   variableMeasured: []
 citation: Mazzamuto, Giacomo; Costantini, Irene; Gavryusev, Vladislav; Castelli, Filippo
   Maria; Pesce, Luca; Scardigli, Marina; Pavone, Francesco Saverio; Roffilli, Matteo;
-  Silvestri, Ludovico; Hof, Patrick R.; Boas, David A.; Fischl, Bruce; Morgan, Leah;
-  Yang, Jiarui; Chang, Shuaibin; Laffey, Jessie; Magnain, Caroline; Varadarajan, Divya;
-  Wang, Hui; Frost, Robert; Kouwe, Andre van der; Player, Allison Stevens; Atzeni,
-  Alessia; Gonzalez, Juan Eugenio Iglesias; Balbastre, Yael; Vera, Matthew; Cordero,
-  Devani; Nestor, Kimberly; Ammon, William; Nolan, Jackson; Mora, Jocelyn; Pallares,
-  Erendira Garcia; Augustinack, Jean; Diamond, Bram; Fogarty, Morgan; Boyd, Emma;
-  Varghese, Merina; Dalca, Adrian V.; Edlow, Brian; Frosche, Matthew; Chen, I-Chun
-  Anderson; Wicinski, Bridget (2022) Human brain cell census for BA 44/45 (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000026/draft
+  Silvestri, Ludovico; Brady, Niamh; Ramazzotti, Josephine; Hof, Patrick R.; Boas,
+  David A.; Fischl, Bruce; Morgan, Leah; Yang, Jiarui; Chang, Shuaibin; Laffey, Jessie;
+  Magnain, Caroline; Varadarajan, Divya; Wang, Hui; Frost, Robert; Kouwe, Andre van
+  der; Player, Allison Stevens; Atzeni, Alessia; Gonzalez, Juan Eugenio Iglesias;
+  Balbastre, Yael; Vera, Matthew; Cordero, Devani; Nestor, Kimberly; Ammon, William;
+  Nolan, Jackson; Mora, Jocelyn; Pallares, Erendira Garcia; Augustinack, Jean; Diamond,
+  Bram; Fogarty, Morgan; Boyd, Emma; Varghese, Merina; Dalca, Adrian V.; Edlow, Brian;
+  Frosche, Matthew; Wicinski, Bridget; Chen, I-Chun Anderson (2022) Human brain cell
+  census for BA 44/45 (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000026/draft
 contributor:
 - affiliation:
   - includeInCitation: false
@@ -58,6 +58,7 @@ contributor:
   - dcite:Researcher
   - dcite:Software
   - dcite:ProjectMember
+  - dcite:Methodology
   schemaKey: Person
 - affiliation:
   - includeInCitation: false
@@ -157,6 +158,29 @@ contributor:
   identifier: 0000-0001-9215-9104
   includeInCitation: true
   name: Silvestri, Ludovico
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  - dcite:Methodology
+  schemaKey: Person
+- affiliation:
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+    schemaKey: Affiliation
+  email: brady@lens.unifi.it
+  includeInCitation: true
+  name: Brady, Niamh
+  roleName:
+  - dcite:DataCollector
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - name: National Research Council - National Institute of Optics (CNR-INO), Italy
+    schemaKey: Affiliation
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+    schemaKey: Affiliation
+  email: ramazzotti@lens.unifi.it
+  includeInCitation: true
+  name: Ramazzotti, Josephine
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -642,20 +666,6 @@ contributor:
   schemaKey: Person
 - affiliation:
   - includeInCitation: false
-    name: Boston University Neurophotonics Center, Boston, MA
-    schemaKey: Affiliation
-  email: chena11@bu.edu
-  includeInCitation: true
-  name: Chen, I-Chun Anderson
-  roleName:
-  - dcite:DataCollector
-  - dcite:Investigation
-  - dcite:Methodology
-  - dcite:ProjectMember
-  - dcite:Researcher
-  schemaKey: Person
-- affiliation:
-  - includeInCitation: false
     name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
       Sinai, New York
     schemaKey: Affiliation
@@ -665,6 +675,20 @@ contributor:
   name: Wicinski, Bridget
   roleName:
   - dcite:DataCollector
+  - dcite:ProjectMember
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - includeInCitation: false
+    name: Boston University Neurophotonics Center, Boston, MA
+    schemaKey: Affiliation
+  email: chena11@bu.edu
+  includeInCitation: true
+  name: Chen, I-Chun Anderson
+  roleName:
+  - dcite:DataCollector
+  - dcite:Investigation
+  - dcite:Methodology
   - dcite:ProjectMember
   - dcite:Researcher
   schemaKey: Person
