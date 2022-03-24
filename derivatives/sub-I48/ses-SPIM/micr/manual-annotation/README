@@ -1,0 +1,11 @@
+This derivatives folder contains manual soma centroid annotation.
+
+The filenames are in the following format
+
+sub-I48_ses-SPIM_sample_BrocaAreaS08_stain-NeuN_SPIM_pos-{pos_z}-{pos_y}-{pos_x}.tif
+sub-I48_ses-SPIM_sample_BrocaAreaS08_stain-NeuN_SPIM_pos-{pos_z}-{pos_y}-{pos_x}.marker
+
+Each annotated stack is a [50, 100, 100] ([z,y,x]) shaped subvolume from the corresponding stack in the "fused" derivatives folder,
+the pos_{z,y,x} coordinates are selection pivots on those volumes.
+
+The annotations are to be opened in Vaa3D software [https://github.com/Vaa3D/v3d_external], each coordinate indicates a soma centroid.
