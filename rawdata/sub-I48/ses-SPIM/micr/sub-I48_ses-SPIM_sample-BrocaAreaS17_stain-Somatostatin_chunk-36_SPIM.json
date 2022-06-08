@@ -1,0 +1,51 @@
+{
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "Brodmann area 44/45",
+  "BodyPartDetailsOntology": "FMA",
+  "ChunkTransformMatrix": [
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      8816.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "ChunkTransformMatrixAxis": [
+    "X",
+    "Y",
+    "Z"
+  ],
+  "Environment": "exvivo",
+  "InstitutionAddress": "Via Nello Carrara 1, 50019 Sesto Fiorentino (FI), Italy",
+  "InstitutionName": "LENS - European Laboratory for NonLinear Spectroscopy - University of Florence",
+  "InstitutionalDepartmentName": "BioPhotonics Lab",
+  "Pathology": "no pathology",
+  "PixelSize": [
+    3.6,
+    3.6,
+    3.6
+  ],
+  "PixelSizeUnits": "um",
+  "SampleExtractionInstitution": "Massachusetts General Hospital",
+  "SampleExtractionProtocol": "autopsy",
+  "SampleFixation": "Formalin fixation for two years, stored in PLP 2% solution",
+  "SampleStaining": "Somatostatin"
+}
