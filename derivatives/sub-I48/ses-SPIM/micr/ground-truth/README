@@ -1,0 +1,15 @@
+# VOXEL ANNOTATIONS OF BROCA AREA SPIM IMAGING
+
+This dataset is comprised of pairs of .tif stacks in the form
+
+sub-I48_ses-SPIM_sample-BrocaArea_stain-NeuN_chunk-043_0025_frame.tif
+sub-I48_ses-SPIM_sample-BrocaArea_stain-NeuN_chunk-043_0025_annotation.tif
+
+_frame.tif stacks are 16bit monochrome images on the NeuN fluorescence channel
+_annotation.tif stacks are 32-bit monochrome annotations of the corresponding _frame
+stack where every pixel value corresponds to a single neuronal instance
+
+Each annotation frame is randomly sampled from a single chunk identified in the filename
+Filenames include a progressive integer with no physical interpretation
+
+
