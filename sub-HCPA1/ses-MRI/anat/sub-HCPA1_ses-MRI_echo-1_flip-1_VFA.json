@@ -1,0 +1,10 @@
+{
+	"IntendedFor":"sub-HCPA1_ses-MRI_echo-1_flip-1_VFA",
+	"MagneticFieldStrength":"7",
+	"Manufacturer":"Siemens",
+	"ManufacturerModelName": "Magnetom",
+	"PulseSequenceType":"GRE",
+	"RepititionTime":"0.045",
+	"EchoTime":"0.007",
+	"FlipAngle":"50"
+}
