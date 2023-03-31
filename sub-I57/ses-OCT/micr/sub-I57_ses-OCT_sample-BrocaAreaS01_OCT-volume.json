@@ -1,8 +1,0 @@
-{
-"PixelSize": [30, 30, 35], 
-"PixelSizeUnits": "um", 
-"BodyPart": "BRAIN", 
-"BodyPartDetails": "BrocaArea", 
-"Environment": "exvivo", 
-"SampleStaining": "None"
-}
