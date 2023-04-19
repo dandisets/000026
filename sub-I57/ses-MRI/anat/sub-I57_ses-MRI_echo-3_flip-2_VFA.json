@@ -1,0 +1,10 @@
+{
+	"IntendedFor":"sub-I57_ses-MRI-echo-3_flip-2_VFA",
+	"MagneticFieldStrength":"7",
+	"Manufacturer":"Siemens",
+	"ManufacturerModelName": "Magnetom",
+	"PulseSequenceType":"GRE",
+	"RepititionTime":"0.045",
+	"EchoTime":"0.023",
+	"FlipAngle":"5"
+}

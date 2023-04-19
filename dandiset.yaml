@@ -19,8 +19,8 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 18427294714525
-  numberOfFiles: 56217
+  numberOfBytes: 18426662963516
+  numberOfFiles: 56417
   numberOfSamples: 61
   numberOfSubjects: 18
   schemaKey: AssetsSummary
@@ -701,7 +701,7 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-06-24T18:34:50.022000+00:00'
-datePublished: '2023-02-24T20:50:23.042859+00:00'
+datePublished: '2023-04-14T13:13:03.285378+00:00'
 description: Magnetic resonance imaging (MRI) is used to establish a macroscopic reference
   coordinate system of laminar and cytoarchitectural boundaries. Cell counting is
   obtained with both traditional immunohistochemistry, to provide a stereological
@@ -732,13 +732,13 @@ protocol:
 - https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
 - https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
 publishedBy:
-  endDate: '2023-02-24T20:50:23.042859+00:00'
-  id: urn:uuid:c071a616-5832-420f-a559-af0cb1116230
+  endDate: '2023-04-14T13:13:03.285378+00:00'
+  id: urn:uuid:57937fe6-d5e8-4564-99ee-27c8efe66b1c
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-02-24T20:50:23.042859+00:00'
+  startDate: '2023-04-14T13:13:03.285378+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:c68bdd9d-348c-4104-b431-dc34271c6bf7
+  - id: urn:uuid:f9ba2944-84fb-4911-b9eb-e730b2fb6cdb
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
