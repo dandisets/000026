@@ -1,0 +1,10 @@
+{
+    "IntendedFor": "sub-I48_ses-MRI_flip-12_TB1DAM.nii.gz",
+    "Manufacturer": "Siemens",
+    "ManufacturerModelName": "MAGNETOM Terra",
+    "MagneticFieldStrength": "7",
+    "InstitutionName": "MGH, HST",
+    "PulseSequenceType": "GRE",
+    "RepetitionTime": "5.000",
+    "FlipAngle": "270"
+}
