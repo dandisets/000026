@@ -36,7 +36,7 @@ citation: Mazzamuto, Giacomo; Costantini, Irene; Gavryusev, Vladislav; Castelli,
   Nolan, Jackson; Mora, Jocelyn; Pallares, Erendira Garcia; Augustinack, Jean; Diamond,
   Bram; Fogarty, Morgan; Boyd, Emma; Varghese, Merina; Dalca, Adrian V.; Edlow, Brian;
   Frosche, Matthew; Wicinski, Bridget; Chen, I-Chun Anderson (2023) Human brain cell
-  census for BA 44/45 (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  census for BA 44/45 (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000026/draft
 contributor:
 - affiliation:
   - includeInCitation: false
@@ -701,7 +701,6 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-06-24T18:34:50.022000+00:00'
-datePublished: '2023-04-14T13:13:03.285378+00:00'
 description: Magnetic resonance imaging (MRI) is used to establish a macroscopic reference
   coordinate system of laminar and cytoarchitectural boundaries. Cell counting is
   obtained with both traditional immunohistochemistry, to provide a stereological
@@ -709,7 +708,6 @@ description: Magnetic resonance imaging (MRI) is used to establish a macroscopic
   microscope (LSM) for 3D imaging at cellular resolution. Finally, polarization-sensitive
   optical coherence tomography (PSOCT) enables registration of the distorted histological
   cell typing obtained with LSM to the MRI-based atlas coordinate system.
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000026/draft
 identifier: DANDI:000026
@@ -731,18 +729,6 @@ protocol:
 - https://www.protocols.io/view/high-resolution-ex-vivo-structural-mri-imaging-amp-byt7pwrn
 - https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
 - https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
-publishedBy:
-  endDate: '2023-04-14T13:13:03.285378+00:00'
-  id: urn:uuid:57937fe6-d5e8-4564-99ee-27c8efe66b1c
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-04-14T13:13:03.285378+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:f9ba2944-84fb-4911-b9eb-e730b2fb6cdb
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource:
 - identifier: Paper
   name: Dual-beam confocal light-sheet microscopy via flexible acousto-optic deflector
