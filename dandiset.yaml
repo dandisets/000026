@@ -730,12 +730,11 @@ protocol:
 - https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
 - https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
 relatedResource:
-- identifier: Paper
-  name: Dual-beam confocal light-sheet microscopy via flexible acousto-optic deflector
-  relation: dcite:IsPublishedIn
-  repository: J. of Biomedical Optics
+- name: Dashboard for available data
+  relation: dcite:IsSupplementedBy
+  repository: BICCN dashboard
   schemaKey: Resource
-  url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-24/issue-10/106504/Dual-beam-confocal-light-sheet-microscopy-via-flexible-acousto-optic/10.1117/1.JBO.24.10.106504.full?tab=ArticleLinkCited
+  url: https://biccn.github.io/Quarterly_Submission_Receipts/000026-dashboard.html
 - identifier: Paper
   name: 'Autofluorescence enhancement for label-free imaging of myelinated fibers
     in mammalian brains '
@@ -744,13 +743,11 @@ relatedResource:
   schemaKey: Resource
   url: https://www.biorxiv.org/content/10.1101/2020.07.28.225011v1
 - identifier: Paper
-  name: 'Large-scale, cell-resolution volumetric analysis allows layer-specific investigation
-    of human brain cytoarchitecture (MAGIC: A label-free fluorescence method for 3D
-    high-resolution reconstruction of myelinated fibers in large volumes)'
+  name: Dual-beam confocal light-sheet microscopy via flexible acousto-optic deflector
   relation: dcite:IsPublishedIn
-  repository: Biomedical Optics Express
+  repository: J. of Biomedical Optics
   schemaKey: Resource
-  url: https://www.biorxiv.org/content/10.1101/2020.08.06.219444v1
+  url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-24/issue-10/106504/Dual-beam-confocal-light-sheet-microscopy-via-flexible-acousto-optic/10.1117/1.JBO.24.10.106504.full?tab=ArticleLinkCited
 - identifier: Paper
   name: Improving the characterization of ex vivo human brain optical properties using
     high numerical aperture optical coherence tomography by spatially constraining
@@ -786,6 +783,14 @@ relatedResource:
   repository: bioRxiv
   schemaKey: Resource
   url: https://www.biorxiv.org/content/10.1101/2020.10.07.329227v1
+- identifier: Paper
+  name: 'Large-scale, cell-resolution volumetric analysis allows layer-specific investigation
+    of human brain cytoarchitecture (MAGIC: A label-free fluorescence method for 3D
+    high-resolution reconstruction of myelinated fibers in large volumes)'
+  relation: dcite:IsPublishedIn
+  repository: Biomedical Optics Express
+  schemaKey: Resource
+  url: https://www.biorxiv.org/content/10.1101/2020.08.06.219444v1
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
