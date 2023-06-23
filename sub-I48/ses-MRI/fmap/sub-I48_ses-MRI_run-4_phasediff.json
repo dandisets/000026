@@ -1,0 +1,11 @@
+{
+    "EchoTime1": 0.00219,
+    "EchoTime2": 0.00321,
+    "B0FieldIdentifier": "field_mapping_2D_1p2iso_TR5sec_run4",
+    "IntendedFor": [
+        "bids::sub-I48/anat/sub-I48_ses-MRI_echo-1_flip-4_VFA.nii.gz",
+        "bids::sub-I48/anat/sub-I48_ses-MRI_echo-2_flip-4_VFA.nii.gz",
+        "bids::sub-I48/anat/sub-I48_ses-MRI_echo-3_flip-4_VFA.nii.gz",
+        "bids::sub-I48/anat/sub-I48_ses-MRI_echo-4_flip-4_VFA.nii.gz"
+    ]
+}
