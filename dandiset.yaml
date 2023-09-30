@@ -691,7 +691,7 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-06-24T18:34:50.022000+00:00'
-datePublished: '2023-09-30T11:49:36.835351+00:00'
+datePublished: '2023-09-30T14:37:45.096106+00:00'
 description: Magnetic resonance imaging (MRI) is used to establish a macroscopic reference
   coordinate system of laminar and cytoarchitectural boundaries. Cell counting is
   obtained with both traditional immunohistochemistry, to provide a stereological
@@ -722,13 +722,13 @@ protocol:
 - https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
 - https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
 publishedBy:
-  endDate: '2023-09-30T11:49:36.835351+00:00'
-  id: urn:uuid:02c7357e-47fa-4d98-a883-9d916fea4fd2
+  endDate: '2023-09-30T14:37:45.096106+00:00'
+  id: urn:uuid:57f6b91b-601a-4ebf-b758-d6e4cba378f8
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-09-30T11:49:36.835351+00:00'
+  startDate: '2023-09-30T14:37:45.096106+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:3ef803f3-5e08-4c0d-b53d-32f0a88cf929
+  - id: urn:uuid:dab96df6-7783-43e2-9d0c-e180fbce8b8d
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
