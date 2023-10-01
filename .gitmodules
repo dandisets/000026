@@ -742,3 +742,11 @@
 	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS18_stain-Somatostatin_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/8ebfca5c-289f-4433-965d-ded35555ecd8
 	datalad-id = 0e5b1080-ceef-45e1-9d20-8cba453f38f6
+[submodule "sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS19_stain-Calretinin_SPIM.ome.zarr"]
+	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS19_stain-Calretinin_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/62f9beef-5d96-4d7a-8138-042d41afeb24
+	datalad-id = deef6377-25be-4658-b0cd-4f6c318d86d0
+[submodule "sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS19_stain-NeuN_SPIM.ome.zarr"]
+	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS19_stain-NeuN_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/a359b2b8-55b4-42b5-a56e-e1f976d626b2
+	datalad-id = 6559bcff-2a9e-4a1d-9b80-c1688ea1fc4a
