@@ -774,3 +774,7 @@
 	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS21_stain-NeuN_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/fe01bdb8-9e6c-4fca-8607-7cbd417a4a35
 	datalad-id = 7c06ba3e-6523-4243-9d55-1bd7e780c22d
+[submodule "sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS21_stain-Somatostatin_SPIM.ome.zarr"]
+	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS21_stain-Somatostatin_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/f173f8a2-439f-421d-ba4e-6f47baebbeea
+	datalad-id = 57d5c57f-4a6b-4697-827d-0b26e04e548a
