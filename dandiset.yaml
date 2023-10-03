@@ -13,9 +13,19 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 1
-  numberOfFiles: 1
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 20433698676390
+  numberOfFiles: 57160
+  numberOfSamples: 61
+  numberOfSubjects: 20
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Mazzamuto, Giacomo; Costantini, Irene; Gavryusev, Vladislav; Castelli, Filippo
   Maria; Pesce, Luca; Scardigli, Marina; Pavone, Francesco Saverio; Roffilli, Matteo;
   Silvestri, Ludovico; Brady, Niamh; Ramazzotti, Josephine; Hof, Patrick R.; Boas,
@@ -691,7 +701,7 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 dateCreated: '2020-06-24T18:34:50.022000+00:00'
-datePublished: '2023-10-03T13:50:06.920128+00:00'
+datePublished: '2023-10-03T14:26:08.774333+00:00'
 description: Magnetic resonance imaging (MRI) is used to establish a macroscopic reference
   coordinate system of laminar and cytoarchitectural boundaries. Cell counting is
   obtained with both traditional immunohistochemistry, to provide a stereological
@@ -722,13 +732,13 @@ protocol:
 - https://www.protocols.io/view/serial-sectioning-optical-histology-cell-census-ne-bu7mnzk6
 - https://www.biorxiv.org/content/10.1101/2021.07.18.452829v1
 publishedBy:
-  endDate: '2023-10-03T13:50:06.920128+00:00'
-  id: urn:uuid:9dd0de51-6dd6-4069-bc66-660b74f5f831
+  endDate: '2023-10-03T14:26:08.774333+00:00'
+  id: urn:uuid:0bf196fe-fbe3-44cc-afef-aa4eba78285f
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-10-03T13:50:06.920128+00:00'
+  startDate: '2023-10-03T14:26:08.774333+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:a50f3e23-b93f-41af-ba96-54e553daa0c9
+  - id: urn:uuid:fcaa3695-1d7f-4b04-a45f-5b278ccc9f99
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
