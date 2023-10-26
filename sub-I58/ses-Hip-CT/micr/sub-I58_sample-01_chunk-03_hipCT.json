@@ -1,0 +1,16 @@
+{
+	"IntendedFor":"sub-I58_sample-01_chunk-03_hipCT.ome.json",
+	"Manufacturer":"ESRF",
+	"StationName": "BM18",
+	"InstitutionName":"European Synchrotron Radiation Facility",
+	"InstitutionAddress":"71 Av. des Martyrs, 38000 Grenoble, France",
+	"PixelSize":"[6.21, 6.21, 6.21]",
+	"PixelSizeUnits":"um",
+	"OtherAcquisitionParameters":"{\"StartTime\": \"09/02/2023\", \"SRCurrent\": \"196.91 mA\", \"IDName\": \"BM18\", \"ScanRadix\": \"HA-2000_6.21um_I58-LH_brain_ROI-02\", \"ZStep\": \"5\", \"ZStages\": \"7\", \"Projections\": \"15000\", \"RefN\": \"3\", \"DarkN\": \"3\", \"ExposureTime\": \"0.02 s\", \"AccExposureTime\": \"0.08 s\", \"AccFramesCount\": \"4\", \"PixelSize\": \"6.21 um\", \"PropDistance\": \"5000 mm\", \"Filters\": \"sapphire 5mm, SiO2 20mm glassyC 59.3 140mm jars, psho 10\", \"Det_Avg_Energy\": \"101 keV\", \"ScanGeometry\": \"half-acquisition\", \"ScanRange\": \"360 deg\", \"Magnification\": \"0.6079129\", \"OpticsType\": \"DZoom\", \"Scintillator\": \"LuAG_2000_reflective_Fraunhofer\", \"ScanTime\": \"22.9\", \"SeriesTime\": \"2.7\"}",
+	"BodyPart":"Brain",
+	"BodyPartDetails":"Brainstem",
+	"SampleEnviornment":"ex vivo",
+	"SampleEmbedding":"agar crushed gel at 70% ethanol",
+	"SampleFixation":"formalin",
+	"SampleExtractionInstitution":"Massachusetts General Hospital"
+}

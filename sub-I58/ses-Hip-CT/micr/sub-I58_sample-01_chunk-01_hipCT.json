@@ -1,0 +1,16 @@
+{
+	"IntendedFor":"sub-I58_sample-01_chunk-01_hipCT.ome.json",
+	"Manufacturer":"ESRF",
+	"StationName": "BM18",
+	"InstitutionName":"European Synchrotron Radiation Facility",
+	"InstitutionAddress":"71 Av. des Martyrs, 38000 Grenoble, France",
+	"PixelSize":"[15.13, 15.13, 15.13]",
+	"PixelSizeUnits":"um",
+	"OtherAcquisitionParameters": "{\"StartTime\": \"20/01/2023\", \"SRCurrent\": \"200mA mA\", \"IDName\": \"BM18\", \"ScanRadix\": \"HA-2300_15.13um_I58-LH_brain_C\", \"ZStep\": \"5\", \"ZStages\": \"32\", \"Projections\": \"15000\", \"ExposureTime\": \"0.014 s\", \"AccExposureTime\": \"0.07 s\", \"AccFramesCount\": \"5\", \"PixelSize\": \"15.13 um\", \"PropDistance\": \"15000 mm\", \"Filters\": \"Sapphire 10mm SiO2 15mm\", \"Det_Avg_Energy\": \"90 keV\", \"ScanGeometry\": \"half-acquisition\", \"ScanRange\": \"360 deg\", \"SensorName\": \"IRIS15\", \"SensorPixelSize\": \"4.25 um\", \"Magnification\": \"0.3\", \"XPixelNum\": \"5046\", \"YPixelNum\": \"400\", \"OpticsType\": \"Dzoom\", \"Scintillator\": \"LuAG 2000 reflective\", \"SurfDoseRate\": \"26.9 Gy/s\", \"ScanTime\": \"20\", \"SeriesTime\": \"10.7\"}",
+	"BodyPart":"Brain",
+	"BodyPartDetails":"Left Hemisphere",
+	"SampleEnviornment":"ex vivo",
+	"SampleEmbedding":"agar crushed gel at 70% ethanol",
+	"SampleFixation":"formalin",
+	"SampleExtractionInstitution":"Massachusetts General Hospital"
+}
