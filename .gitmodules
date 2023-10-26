@@ -838,3 +838,15 @@
 	path = sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS26_stain-Somatostatin_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/6bd1868e-ddf5-44a5-9c43-2edebee3af69
 	datalad-id = 306d1059-9c71-447e-81cb-95721f978986
+[submodule "sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-03_hipCT.ome.zarr"]
+	path = sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-03_hipCT.ome.zarr
+	url = https://github.com/dandizarrs/1904d2d9-ed31-4cf5-b723-eedff28d2c7c
+	datalad-id = af78c6df-8886-47ea-b254-4dcbdea17707
+[submodule "sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-02_hipCT.ome.zarr"]
+	path = sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-02_hipCT.ome.zarr
+	url = https://github.com/dandizarrs/a2861b6d-074a-46cc-a221-b6e9a75dc6be
+	datalad-id = 90367405-8dbf-4d1c-b3c9-6fa62b3ae3f4
+[submodule "sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-01_hipCT.ome.zarr"]
+	path = sub-I58/ses-Hip-CT/micr/sub-I58_sample-01_chunk-01_hipCT.ome.zarr
+	url = https://github.com/dandizarrs/5c37c233-222f-4e60-96e7-a7536e08ef61
+	datalad-id = b8fc1c6b-42ef-4c6d-a78e-089b1db7f971
