@@ -6,5 +6,5 @@
 	"PulseSequenceType":"GRE",
 	"RepititionTime":"34",
 	"EchoTime":"0.01195",
-	"FlipAngle":"10"
+	"FlipAngle":"200"
 }

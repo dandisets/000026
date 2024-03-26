@@ -19,8 +19,8 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 31315738544883
-  numberOfFiles: 57531
+  numberOfBytes: 31420310005717
+  numberOfFiles: 57693
   numberOfSamples: 62
   numberOfSubjects: 20
   schemaKey: AssetsSummary
