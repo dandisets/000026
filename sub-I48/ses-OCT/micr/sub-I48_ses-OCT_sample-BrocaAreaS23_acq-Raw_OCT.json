@@ -1,0 +1,24 @@
+{
+    "BodyPart": "BRAIN",
+    "Environment": "exvivo",
+    "SampleStaining": "none",
+    "SampleMedium": "60% 2,2' Thiodiethanol (TDE)",
+    "Wavelength": 1294.84,
+    "WavelengthUnit": "nm",
+    "ResolutionAxial": 4.9,
+    "ResolutionAxialUnit": "um",
+    "ResolutionLateral": 4.92,
+    "ResolutionLateralUnit": "um",
+    "PixelSize": [
+        3.0,
+        3.0,
+        3.0
+    ],
+    "PixelSizeUnits": "um",
+    "DepthFocusRange": 225.0,
+    "DepthFocusRangeUnit": "um",
+    "FocusCount": 2,
+    "SliceThickness": 450.0,
+    "SliceCount": 75,
+    "OCTModality": "dBI"
+}
