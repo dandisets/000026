@@ -800,6 +800,14 @@ relatedResource:
   repository: Biomedical Optics Express
   schemaKey: Resource
   url: https://www.biorxiv.org/content/10.1101/2020.08.06.219444v1
+- identifier: Paper
+  name: Segmentation of supragranular and infragranular layers in ultra-high-resolution
+    7T ex vivo MRI of the human cerebral cortex
+  relation: dcite:IsPublishedIn
+  repository: Cerebral Cortex
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://academic.oup.com/cercor/article-abstract/34/9/bhae362/7755370?login=false
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
