@@ -4006,3 +4006,7 @@
 	path = sub-I48/ses-OCT/micr/sub-I48_ses-OCT_sample-BrocaAreaS23_acq-Raw_OCT.ome.zarr
 	url = https://github.com/dandizarrs/a6fa8bd2-c46b-445b-a219-e97dac4f2ee8
 	datalad-id = 9422cbc5-66ea-4838-9536-ab32763baf07
+[submodule "sub-I48/ses-SPIM/micr/sub-I48_ses-SPIM_sample-BrocaAreaS04_stain-NeuN_SPIM.ome.zarr"]
+	path = sub-I48/ses-SPIM/micr/sub-I48_ses-SPIM_sample-BrocaAreaS04_stain-NeuN_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/23123eef-62df-46b8-92ae-c2102110977c
+	datalad-id = 0fc4867d-d0cd-48ec-b89b-7e8af3140d29
