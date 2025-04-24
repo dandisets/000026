@@ -44,11 +44,9 @@ citation: Mazzamuto, Giacomo; Costantini, Irene; Di Meo, Danila; Castelli, Filip
   https://dandiarchive.org/dandiset/000026/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: National Research Council - National Institute of Optics (CNR-INO), Italy
+  - name: National Research Council - National Institute of Optics (CNR-INO), Italy
     schemaKey: Affiliation
   email: mazzamuto@lens.unifi.it
   identifier: 0000-0003-3077-3904
@@ -66,8 +64,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   email: costantini@lens.unifi.it
   identifier: 0000-0002-8464-7324
@@ -87,8 +84,7 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   identifier: 0000-0001-8170-8905
   includeInCitation: true
@@ -101,8 +97,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   identifier: 0000-0002-5863-399X
   includeInCitation: true
@@ -114,8 +109,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   identifier: 0000-0003-2438-2923
   includeInCitation: true
@@ -127,8 +121,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   identifier: 0000-0002-0675-3981
   includeInCitation: true
@@ -138,8 +131,7 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Bioretics Srl, Cesena (FC), Italy
+  - name: Bioretics Srl, Cesena (FC), Italy
     schemaKey: Affiliation
   email: roffilli@gmail.com
   identifier: 0000-0002-7554-4470
@@ -151,8 +143,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-linear Spectroscopy, University of Florence,Italy
+  - name: European Laboratory for Non-linear Spectroscopy, University of Florence,Italy
     schemaKey: Affiliation
   email: silvestri@lens.unifi.it
   identifier: 0000-0001-9215-9104
@@ -187,8 +178,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
       Sinai, New York
     schemaKey: Affiliation
   email: patrick.hof@mssm.edu
@@ -203,8 +193,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Boston University Neurophotonics Center, Boston, MA
+  - name: Boston University Neurophotonics Center, Boston, MA
     schemaKey: Affiliation
   email: dboas@bu.edu
   identifier: 0000-0002-6709-7711
@@ -218,11 +207,9 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: CSAIL/HST, MIT, Cambridge, MA
+  - name: CSAIL/HST, MIT, Cambridge, MA
     schemaKey: Affiliation
   email: fischl@nmr.mgh.harvard.edu
   identifier: 0000-0002-2413-1115
@@ -237,8 +224,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: lmorgan6@mgh.harvard.edu
   identifier: 0000-0001-6859-734X
@@ -258,8 +244,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Boston University Neurophotonics Center, Boston, MA
+  - name: Boston University Neurophotonics Center, Boston, MA
     schemaKey: Affiliation
   email: jryang@bu.edu
   identifier: 0000-0003-2759-776X
@@ -273,8 +258,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Boston University Neurophotonics Center, Boston, MA
+  - name: Boston University Neurophotonics Center, Boston, MA
     schemaKey: Affiliation
   email: shuaibin@bu.edu
   includeInCitation: true
@@ -282,8 +266,7 @@ contributor:
   roleName: []
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
       Sinai, New York
     schemaKey: Affiliation
   email: jessie.laffey@mssm.edu
@@ -299,8 +282,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: cmagnain@mgh.harvard.edu
   identifier: 0000-0003-4244-7380
@@ -314,8 +296,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
     schemaKey: Affiliation
   email: dvaradarajan@mgh.harvard.edu
   identifier: 0000-0002-3517-9739
@@ -332,8 +313,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: huiwang@nmr.mgh.harvard.edu
   identifier: 0000-0003-0181-5845
@@ -348,8 +328,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HMS
     schemaKey: Affiliation
   email: srfrost@mgh.harvard.edu
   identifier: 0000-0002-2849-9240
@@ -365,8 +344,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: andre@nmr.mgh.harvard.edu
   identifier: 0000-0002-2754-6594
@@ -383,8 +361,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: astevens@nmr.mgh.harvard.edu
   identifier: 0000-0002-4978-0824
@@ -400,8 +377,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Centre for Medical Image Computing, Department of Medical Phisics and Biomedical
+  - name: Centre for Medical Image Computing, Department of Medical Phisics and Biomedical
       Engineering, University College London, UK
     schemaKey: Affiliation
   email: alessia.atzeni.14@ucl.ac.uk
@@ -416,14 +392,11 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: 'Centre for Medical Image Computing, University College London, United Kingdom  '
+  - name: 'Centre for Medical Image Computing, University College London, United Kingdom  '
     schemaKey: Affiliation
-  - includeInCitation: false
-    name: CSAIL, MIT, Cambridge, MA
+  - name: CSAIL, MIT, Cambridge, MA
     schemaKey: Affiliation
   email: jiglesiasgonzalez@mgh.harvard.edu
   includeInCitation: true
@@ -436,8 +409,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: ybalbastre@mgh.harvard.edu
   identifier: 0000-0001-8758-9978
@@ -454,8 +426,7 @@ contributor:
   - dcite:Software
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: mvera2@mgh.harvard.edu
   identifier: 0000-0003-2854-8775
@@ -468,8 +439,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: dccordero@mgh.harvard.edu
   identifier: 0000-0003-2846-4571
@@ -482,8 +452,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: knestor1@mgh.harvard.edu
   identifier: 0000-0002-3178-1300
@@ -496,8 +465,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: wammon@mgh.harvard.edu
   identifier: 0000-0002-8952-979X
@@ -510,8 +478,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: jnolan5@mgh.harvard.edu
   identifier: 0000-0001-7215-9107
@@ -525,8 +492,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: jsmora@mgh.harvard.edu
   identifier: 0000-0002-4241-408X
@@ -539,8 +505,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: egarciapallares@mgh.harvard.edu
   identifier: 0000-0003-1524-6698
@@ -553,8 +518,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: jean@nmr.mgh.harvard.edu
   identifier: 0000-0001-7198-2548
@@ -567,8 +531,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: bram.diamond@northwestern.edu
   identifier: 0000-0002-9493-874X
@@ -581,8 +544,7 @@ contributor:
   - dcite:ProjectMember
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: m.fogarty@wustl.edu
   identifier: 0000-0003-1334-1923
@@ -595,8 +557,7 @@ contributor:
   - dcite:Methodology
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: eboyd@ucsd.edu
   identifier: 0000-0002-6922-8092
@@ -609,8 +570,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
       Sinai, New York
     schemaKey: Affiliation
   email: merina.varghese@mssm.edu
@@ -624,8 +584,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: adalca@mit.edu
   identifier: 0000-0002-8422-0136
@@ -639,8 +598,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
+  - name: A.A. Martinos Center for Biomedical Imaging, Dept. of Radiology, MGH/HST
     schemaKey: Affiliation
   email: bedlow@mgh.harvard.edu
   includeInCitation: true
@@ -652,8 +610,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Massachusetts General Hospital, Dept. of Pathology, Boston
+  - name: Massachusetts General Hospital, Dept. of Pathology, Boston
     schemaKey: Affiliation
   email: mfrosch@mgh.harvard.edu
   includeInCitation: true
@@ -665,8 +622,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
+  - name: Nash Family Department of Neuroscience, Icahn School of Medicine at Mount
       Sinai, New York
     schemaKey: Affiliation
   email: bridget.wicinski@mssm.edu
@@ -679,8 +635,7 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Boston University Neurophotonics Center, Boston, MA
+  - name: Boston University Neurophotonics Center, Boston, MA
     schemaKey: Affiliation
   email: chena11@bu.edu
   includeInCitation: true
@@ -701,8 +656,7 @@ contributor:
   - dcite:Sponsor
   schemaKey: Organization
 - affiliation:
-  - includeInCitation: false
-    name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
+  - name: European Laboratory for Non-Linear Spectroscopy, LENS, Italy
     schemaKey: Affiliation
   identifier: 0000-0001-7734-7828
   includeInCitation: true
